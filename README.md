@@ -51,7 +51,7 @@ You can then interact with the chatbot in your terminal.
 ## 📂 Project Structure
 
 ```
-mini-llm/
+mini_llm/
 ├── dataset.txt        # Training data (User/Bot format)
 ├── model.py           # Decoder-only Transformer implementation
 ├── tokenizer.py       # Char-level tokenizer
